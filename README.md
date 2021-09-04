@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">I am a second year CSE Undergrad and a development enthusiast.</h3>
+<h3 align="center">I am a third year CSE Undergrad and a development enthusiast.</h3>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **React JS**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 📫 Reach me at: **ananyamishra43890@gmail.com**
 
